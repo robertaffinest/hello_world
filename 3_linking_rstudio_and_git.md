@@ -1,6 +1,3 @@
-Ecco una guida per l'utente su come collegare Git/GitHub e RStudio e gestire il controllo delle versioni:
-
----
 
 ## Guida all'uso di Git/GitHub con RStudio
 
