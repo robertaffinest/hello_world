@@ -1,6 +1,3 @@
-Certamente! Ecco una guida utente dettagliata basata sul testo fornito:
-
----
 
 # Guida Utente: Gestione dei Progetti in RStudio con Git e GitHub
 
